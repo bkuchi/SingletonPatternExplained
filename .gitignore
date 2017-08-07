@@ -1,0 +1,20 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+/.idea/
+/out/
+/s2.ser
+/Singleton.iml
+.idea/
+Singleton.iml
+out/
+s2.ser
